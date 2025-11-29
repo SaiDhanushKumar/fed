@@ -1,0 +1,5 @@
+/* Placeholder auth styles */
+.container { padding: 12px; }
+.card { padding: 18px; background: #fff; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+.btn-accent { background: var(--accent, #6b46c1); color: #fff; border: none; padding: 8px 12px; border-radius:4px }
+input, select { padding: 8px; border: 1px solid #ddd; border-radius: 4px }
